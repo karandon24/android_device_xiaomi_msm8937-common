@@ -134,7 +134,7 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/xiaomi/msm8937
 TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_CLANG_VERSION := 9.0.4
-TARGET_KERNEL_CLANG_PATH := $(ANDROID_BUILD_TOP)/prebuilts/clang/host/linux-x86/clang9/bin
+TARGET_KERNEL_CLANG_PATH := /home/karandon24/android/cr/prebuilts/clang/host/linux-x86/clang-5657785/bin
 
 # Lights
 TARGET_PROVIDES_LIBLIGHT := true
